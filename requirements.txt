@@ -1,0 +1,7 @@
+langchain
+langchain_community
+chromadb
+google-genai
+pypdf
+langchain-chroma
+langchain-google-genai
