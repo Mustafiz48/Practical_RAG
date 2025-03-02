@@ -34,7 +34,11 @@ This repo is to learn and practice RAG
 
 5. Run the program:
     ```bash
-    python main.py
+    streamlit run NAIVE_RAG_streamlit.py
+    ```
+    you can also run individual rag file (HyDRAG for example) by running
+    ```
+    python HyDRAG.py
     ```
 
 ## Requirements
