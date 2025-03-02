@@ -5,3 +5,6 @@ google-genai
 pypdf
 langchain-chroma
 langchain-google-genai
+pytrends
+beautifulsoup4
+streamlit
