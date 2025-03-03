@@ -2,7 +2,7 @@ The pdf(History_of_Bangladeh.pdf) is a doc (later saved as pdf) taken from Bangl
 link: https://bffwt.portal.gov.bd/sites/default/files/files/bffwt.portal.gov.bd/page/e2b55969_0e0c_4337_bb4e_ddcc801df7db/History%20of%20Bangladesh%20(4).docx
 Date of downloading the document: 15th February, 2025 (11:40 PM)
 
-# RAG_101
+# Practical_RAG
 This repo shows different RAG apps utilizing different approaches. 
 
 ## Instructions
