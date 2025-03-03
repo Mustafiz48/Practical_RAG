@@ -3,7 +3,7 @@ link: https://bffwt.portal.gov.bd/sites/default/files/files/bffwt.portal.gov.bd/
 Date of downloading the document: 15th February, 2025 (11:40 PM)
 
 # RAG_101
-This repo is to learn and practice RAG
+This repo shows different RAG apps utilizing different approaches. 
 
 ## Instructions
 
